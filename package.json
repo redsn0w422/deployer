@@ -1,0 +1,5 @@
+{
+    "name"  : "deployer",
+    "version" : "0.1",
+    "main" : "main.js"
+}
